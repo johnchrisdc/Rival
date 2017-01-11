@@ -14,7 +14,7 @@ If you can't build this you can go back to yer Windows roots.
 
 **Screenshot**
 ----------
-![enter image description here](http://i.imgur.com/DihgVBA.png)
+![enter image description here](http://i.imgur.com/V6zBQ5x.png)
 
 
        _____ ______ _   _ _____         
